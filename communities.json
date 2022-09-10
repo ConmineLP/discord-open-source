@@ -736,6 +736,13 @@
       "inviteCode": "yarnpkg",
       "logo": "yarnpkg.svg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process."
+    },
+    {
+      "title": "Qubik Studios",
+      "inviteCode": "gzhqnFE",
+      "githubUrl": "https://github.com/Qubik-Studios/",
+      "logo": "qubik-studios.png",
+      "quote": "We use Discord as our main communication channel to coordinate our team."
     }
   ]
 }
